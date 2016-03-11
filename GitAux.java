@@ -12,6 +12,7 @@ public class GitAux {
     
     public void metodoAlumno1(){
         System.out.println("metodo 1");
+	//metodo 1
     }
     
     public void metodoAlumno2(){
